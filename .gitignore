@@ -1,1 +1,3 @@
 .idea/
+
+await $(DeviceButton.Controllers).containing(const Title("Instruction", "utf-8")).waitUntilExists();
